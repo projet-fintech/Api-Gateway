@@ -1,5 +1,4 @@
 # Api-Gateway
-# API Gateway
 
 ## Description
 Le microservice API Gateway agit comme un point d'entrée unique pour toutes les requêtes du système. Il redirige les requêtes vers les microservices appropriés tout en vérifiant les tokens des utilisateurs et leurs rôles pour garantir les droits d'accès.
